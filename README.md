@@ -24,8 +24,10 @@ The dashboard combines key performance indicators (KPIs), interactive slicers, a
 
 ## 📊 Dashboard Preview
 
-![Blinkit Sales Dashboard](images/Dashboard.png)
-![Blinkit Sales Dashboard](images/Dashboard.png)
+## 📊 Dashboard Preview
+
+![Blinkit Sales Dashboard](https://raw.githubusercontent.com/libta018/blinkit-sales-dashboard-power-bi/main/images/Dashboard.png)
+
 
 ## 🎯 Business Objectives
 
