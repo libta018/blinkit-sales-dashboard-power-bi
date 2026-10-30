@@ -22,11 +22,10 @@ Using Microsoft Power BI, I developed an interactive dashboard that provides ins
 
 The dashboard combines key performance indicators (KPIs), interactive slicers, and multiple visualizations to help stakeholders explore sales patterns and make data-driven business decisions.
 
-## 📊 Dashboard Preview
 
 ## 📊 Dashboard Preview
 
-![Blinkit Sales Dashboard](https://raw.githubusercontent.com/libta018/blinkit-sales-dashboard-power-bi/main/images/Dashboard.png)
+![Blinkit Sales Dashboard](Dashboard.png)
 
 
 ## 🎯 Business Objectives
