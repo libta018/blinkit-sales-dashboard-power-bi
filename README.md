@@ -189,14 +189,13 @@ The dataset contains grocery sales and outlet-related information.
 ```text
 blinkit-sales-dashboard-power-bi/
 │
-├── images/
-│   └── Dashboard.png
-│
-├── Blinkit_Dashboard.pbix
-│
+├── Dashboard.png
+├── BlinkIT Grocery Data.xlsx
+├── blinkit.pbix
 └── README.md
----
+```
 
+---
 
 ## 👨‍💻 Author
 
