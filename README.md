@@ -25,6 +25,7 @@ The dashboard combines key performance indicators (KPIs), interactive slicers, a
 ## 📊 Dashboard Preview
 
 ![Blinkit Sales Dashboard](images/Dashboard.png)
+![Blinkit Sales Dashboard](images/Dashboard.png)
 
 ## 🎯 Business Objectives
 
@@ -193,3 +194,25 @@ blinkit-sales-dashboard-power-bi/
 ├── Blinkit_Dashboard.pbix
 │
 └── README.md
+---
+
+
+## 👨‍💻 Author
+
+**Mohammed Talib**
+
+B.Tech in Computer Science & Engineering (2025)
+
+- **LinkedIn:** [Mohammed Talib](https://www.linkedin.com/in/mohammed-talib-analytics-ds)
+- **GitHub:** [libta018](https://github.com/libta018)
+- **Email:** [mohammedtalib306@gmail.com](mailto:mohammedtalib306@gmail.com)
+
+---
+
+<div align="center">
+
+⭐ If you found this project useful, please give it a star!
+
+**Turning Data into Insights | Power BI | Business Intelligence**
+
+</div>
